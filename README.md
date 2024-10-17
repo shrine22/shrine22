@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shrine22
+- 👋 Hi, I’m Shri kharpe
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning DBDA course in cdac kharghar
 - 💞️ I’m looking to collaborate on data analytical position
