@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning DBDA course in cdac kharghar
 - 💞️ I’m looking to collaborate on data analytical position
-- 📫 How to reach me mobNo;-7057069222
+- 📫 How to reach me shrikharpe7@gmail.com
 - 😄 Pronouns: Him
 
 
